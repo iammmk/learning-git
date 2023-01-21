@@ -9,3 +9,5 @@ currently SDE @IQVIA(remote) ... training held in Bangalore, India.
 
 
 done B.Tech in mechanical engg.... batch of 2022.
+
+living in WB.
